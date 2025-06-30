@@ -1,0 +1,304 @@
+{
+  "mushrooms": [
+    {
+      "id": 1,
+      "name": "Death Cap",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 2,
+      "name": "Golden Oyster",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 3,
+      "name": "Bell Morel",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 4,
+      "name": "Crimson Amanita",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 5,
+      "name": "Honey Fungus",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 6,
+      "name": "Yellow Chanterelle",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 7,
+      "name": "Forest Shiitake",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 8,
+      "name": "Leaf Oyster",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 9,
+      "name": "Pink Destroying Angel",
+      "isEdible": false,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 10,
+      "name": "Garden Puffball",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 11,
+      "name": "Golden Enoki",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 12,
+      "name": "Autumn Oyster",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 13,
+      "name": "Silver Trumpet",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 14,
+      "name": "Urban Death Cap",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 15,
+      "name": "Prairie Mushroom",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 16,
+      "name": "Gray Oyster",
+      "isEdible": true,
+      "habitat": "Urban"
+    },
+    {
+      "id": 17,
+      "name": "White Button",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 18,
+      "name": "Crimson Waxcap",
+      "isEdible": false,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 19,
+      "name": "Pale Brittlegill",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 20,
+      "name": "Brown Bolete",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 21,
+      "name": "Yellow Coral",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 22,
+      "name": "Brown Birch Bolete",
+      "isEdible": false,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 23,
+      "name": "Golden Honey",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 24,
+      "name": "Silver Birch",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 25,
+      "name": "Gray Milkcap",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 26,
+      "name": "Flat Oyster",
+      "isEdible": false,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 27,
+      "name": "Autumn Honey",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 28,
+      "name": "White Coral",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 29,
+      "name": "Fiber Head",
+      "isEdible": true,
+      "habitat": "Urban"
+    },
+    {
+      "id": 30,
+      "name": "Woods Blewit",
+      "isEdible": true,
+      "habitat": "Woods"
+    },
+    {
+      "id": 31,
+      "name": "Buff Oyster",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 32,
+      "name": "Urban Ink Cap",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 33,
+      "name": "Forest Honey",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 34,
+      "name": "Pink Waxcap",
+      "isEdible": true,
+      "habitat": "Paths"
+    },
+    {
+      "id": 35,
+      "name": "Golden Bolete",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 36,
+      "name": "White Puffball",
+      "isEdible": true,
+      "habitat": "Woods"
+    },
+    {
+      "id": 37,
+      "name": "Gray Brittlegill",
+      "isEdible": true,
+      "habitat": "Urban"
+    },
+    {
+      "id": 38,
+      "name": "Pale Milkcap",
+      "isEdible": false,
+      "habitat": "Urban"
+    },
+    {
+      "id": 39,
+      "name": "Meadow Waxcap",
+      "isEdible": true,
+      "habitat": "Woods"
+    },
+    {
+      "id": 40,
+      "name": "Brown Rollrim",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 41,
+      "name": "Golden Waxcap",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 42,
+      "name": "Pink Coral",
+      "isEdible": true,
+      "habitat": "Paths"
+    },
+    {
+      "id": 43,
+      "name": "Fiber Cap",
+      "isEdible": true,
+      "habitat": "Urban"
+    },
+    {
+      "id": 44,
+      "name": "Pink Destroying Angel",
+      "isEdible": false,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 45,
+      "name": "Silver Trumpet",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 46,
+      "name": "Forest Bolete",
+      "isEdible": true,
+      "habitat": "Grasses"
+    },
+    {
+      "id": 47,
+      "name": "Golden Trumpet",
+      "isEdible": true,
+      "habitat": "Meadows"
+    },
+    {
+      "id": 48,
+      "name": "White Coral",
+      "isEdible": true,
+      "habitat": "Woods"
+    },
+    {
+      "id": 49,
+      "name": "Meadow Puffball",
+      "isEdible": true,
+      "habitat": "Paths"
+    },
+    {
+      "id": 50,
+      "name": "Buff Bolete",
+      "isEdible": true,
+      "habitat": "Paths"
+    }
+  ]
+}
