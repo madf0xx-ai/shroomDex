@@ -101,15 +101,7 @@ npm run dev
 ### Environment Variables
 Create a `.env` file in the root directory:
 
-```env
-# Gemini AI Configuration (Required)
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-VITE_GEMINI_MODEL=gemini-1.5-flash
-VITE_GEMINI_VISION_MODEL=gemini-1.5-flash
 
-# Optional fallback services
-VITE_GOOGLE_VISION_API_KEY=your_google_vision_api_key
-VITE_PLANTNET_API_KEY=your_plantnet_api_key
 ```
 
 ## 🧠 Gemini AI Implementation
